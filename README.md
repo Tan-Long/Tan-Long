@@ -1,3 +1,2 @@
 - Hi, I'm Tan Long
 - I'm living in Viet Nam 
-- I’m currently learning A.I M.L
